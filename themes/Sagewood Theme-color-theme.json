@@ -599,7 +599,7 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#ff8989"
+        "foreground": "#ff9f8e"
       }
     },
     {
@@ -613,7 +613,7 @@
       "name": "Classes",
       "scope": "support.class, entity.name.type.class",
       "settings": {
-        "foreground": "#e06c75"
+        "foreground": "#e2637d"
       }
     },
     {
@@ -1850,7 +1850,7 @@
     "editorError.foreground": "#e5375c",
     "editorError.background": "#B73A3400",
     "editorError.border": "#ffffff00",
-    "editorWarning.foreground": "#ea9c00",
+    "editorWarning.foreground": "#ffb92d",
     "editorWarning.background": "#A9904000",
     "editorWarning.border": "#ffffff00",
     "editorInfo.foreground": "#75beff",
@@ -1938,7 +1938,7 @@
     "gitDecoration.untrackedResourceForeground": "#93e2a1",
     "editorMarkerNavigation.background": "#2d2d30",
     "editorMarkerNavigationError.background": "#f48771",
-    "editorMarkerNavigationWarning.background": "#bca53a",
+    "editorMarkerNavigationWarning.background": "#ffc549",
     "editorMarkerNavigationInfo.background": "#75beff",
     "merge.currentHeaderBackground": "#367366",
     "merge.currentContentBackground": "#27403B",
@@ -1981,7 +1981,7 @@
     "minimap.findMatchHighlight": "#515c6a",
     "minimap.selectionHighlight": "#1e303b",
     "minimap.errorHighlight": "#f48771",
-    "minimap.warningHighlight": "#bea14a",
+    "minimap.warningHighlight": "#ffc457",
     "minimap.background": "#212121",
     "sideBar.dropBackground": "#383b3d",
     "editorGroup.emptyBackground": "#212121",
