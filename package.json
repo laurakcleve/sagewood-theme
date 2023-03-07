@@ -17,5 +17,8 @@
         "path": "./themes/Sagewood Theme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "url": "https://github.com/laurakcleve/sagewood-theme"
   }
 }
