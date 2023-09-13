@@ -5,8 +5,10 @@
   --purple-red: #b05279;
   --red: #e06c75;
   --pink-orange: #ff978e;
-  --green: #98c379;
+  --green: #98c379;  /* old string color */
+  --light-green: #aef3d5;
   --orange: #ffad88;
+  --light-orange: #f4d6b7;  /* html tag content */
 
   --blue-grey: #7f848e;
   --light-yellow: #f2e5d0;
