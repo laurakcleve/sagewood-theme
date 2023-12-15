@@ -735,9 +735,9 @@
     },
     {
       "name": "JSX tag punctuation",
-      "scope": "punctuation.definition.tag.end.js.jsx,punctuation.definition.tag.begin.js.jsx",
+      "scope": "punctuation.definition.tag.end.js.jsx,punctuation.definition.tag.begin.js.jsx,punctuation.definition.tag.end.tsx,punctuation.definition.tag.begin.tsx",
       "settings": {
-        "foreground": "#ee9a97"
+        "foreground": "#e9a292"
       }
     },
     {
@@ -1428,7 +1428,7 @@
       "name": "go operator",
       "scope": ["keyword.operator.assignment.go"],
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#b05279"
       }
     },
     {
@@ -1446,6 +1446,34 @@
       "scope": ["entity.name.package.go"],
       "settings": {
         "foreground": "#e5c07b"
+      }
+    },
+    {
+      "name": "Go other",
+      "scope": ["source.go"],
+      "settings": {
+        "foreground": "#73bbb2"
+      }
+    },
+    {
+      "name": "Go variable",
+      "scope": ["variable.other.assignment.go"],
+      "settings": {
+        "foreground": "#e5c07b"
+      }
+    },
+    {
+      "name": "Go function",
+      "scope": ["support.function.go"],
+      "settings": {
+        "foreground": "#ff978e"
+      }
+    },
+    {
+      "name": "Go punctuation",
+      "scope": ["punctuation.terminator.go", "punctuation.other.period.go", "punctuation.other.comma.go"],
+      "settings": {
+        "foreground": "#d4d4d4"
       }
     },
     {
